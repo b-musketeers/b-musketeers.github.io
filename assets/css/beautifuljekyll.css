@@ -33,6 +33,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
   font-size: 2.25rem;
+  color:#2f4f4f;
 }
 h2 {
   font-size: 1.875rem;
@@ -485,7 +486,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color:dimgray;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
