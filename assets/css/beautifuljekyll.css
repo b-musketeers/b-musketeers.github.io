@@ -25,6 +25,8 @@ body {
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
+  text-align: justify;
+  align-items: center;
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -67,6 +69,7 @@ hr.small {
   border-width: 0.25rem;
   border-color: inherit;
   border-radius: 0.1875rem;
+  color: #ff8c00;
 }
 
 /* fix in-page anchors to not be behind fixed header */
@@ -102,6 +105,9 @@ img::-moz-selection {
 
 img {
   max-width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .linked-section {
@@ -382,7 +388,7 @@ img {
 
 footer {
   padding: 1.875rem 0;
-  border-top: 1px #EAEAEA solid;
+  border-top: 1px #ff8c00 solid;
   margin-top: 3.125rem;
   font-size: 0.875rem;
   background-color: {{ site.footer-col | default: "#EAEAEA" }};
@@ -451,6 +457,7 @@ footer .footer-custom-content {
   padding: 1.25rem 0;
   border-bottom: 1px solid #eee;
   overflow: hidden;
+  text-align: justify;
 }
 
 @media (min-width: 768px) {
@@ -486,7 +493,7 @@ footer .footer-custom-content {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color:dimgray;
+  color: #2f4f4f;
   font-size: 1.125rem;
   font-style: italic;
   margin: 0 0 0.625rem;
@@ -626,7 +633,7 @@ footer .footer-custom-content {
 }
 
 #full-tags-list .tag-entry .entry-date {
-  color: #808080;
+  color: #2f4f4f;
   font-style: italic;
   font-size: 1rem;
 }
@@ -1000,7 +1007,7 @@ pre {
   max-width: 25%;
   border-width: 0.25rem;
   border-radius: 0.1875rem;
-  border-color: #808080;
+  border-color: #ff8c00;
 }
 
 .blog-post blockquote {
