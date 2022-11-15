@@ -30,7 +30,7 @@ This article covers a few of the different ways to get yourself up and running w
 
 # The Tech-Involved Option
 
-First up I'll start with the option I've selected, [RaspiBolt](https://raspibolt.org/). This defiantly isn't for the anyone who doesn't have time to dedicate to the task or the patience. I opted for this method because I like the idea of building up the elements one at a time to see how all the pieces fit together.
+First up I'll start with the option I've selected, [RaspiBolt](https://raspibolt.org/){:target="_blank"}. This defiantly isn't for the anyone who doesn't have time to dedicate to the task or the patience. I opted for this method because I like the idea of building up the elements one at a time to see how all the pieces fit together.
 
 ![RaspiBolt](/assets/img/2022-10-29/raspibolt.jpg "Raspibolt Logo.")
 
@@ -40,7 +40,7 @@ This process assumes you've gone out and got your required setup equipment and a
 
 # The Polished UI (Point and Click)
 
-Next up we have an alternative option that is extremely popular ([Umbrel](https://getumbrel.com/)). This is a great middle ground for someone who wants all the functionality of running their own node but then wants both a clean UI and access to a bunch of other Apps. It is a more straight forward project and is quite polished, it also opens up using your personal secure server for other items like secure photo sharing etc.
+Next up we have an alternative option that is extremely popular ([Umbrel](https://getumbrel.com/){:target="_blank"}). This is a great middle ground for someone who wants all the functionality of running their own node but then wants both a clean UI and access to a bunch of other Apps. It is a more straight forward project and is quite polished, it also opens up using your personal secure server for other items like secure photo sharing etc.
 
 ![Unbrel](/assets/img/2022-10-29/umbrel.jpg "Umbrel app store.")
 
@@ -50,7 +50,7 @@ Looking at the user guide it has just 10 Steps! Again it assumes you've gone and
 
 # TLDR Version
 
-Finally, another very popular option is [myNode](https://mynodebtc.com/). Much like Umbrel this option offers a more out-of-the box solution with minimal setup or technical expertise required. They also go further in offering a one-stop-shop (if you're wishing to pay a little more but get it done all in one go) with their premium package. This package includes all the hardware and the premium version software to get you on your way in just 4 steps!
+Finally, another very popular option is [myNode](https://mynodebtc.com/){:target="_blank"}. Much like Umbrel this option offers a more out-of-the box solution with minimal setup or technical expertise required. They also go further in offering a one-stop-shop (if you're wishing to pay a little more but get it done all in one go) with their premium package. This package includes all the hardware and the premium version software to get you on your way in just 4 steps!
 
 ![myNode](/assets/img/2022-10-29/mynode.png "myNode app store.")
 
