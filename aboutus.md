@@ -6,7 +6,7 @@ subtitle: A little bit about the content creators
 
 **Who are we?**
 <br>
-The ₿-Musketeers are simply a collective of individuals with a common interest. We meet regularly to discuss what is happening in the world around us and can often be found consuming content/ideas that relate to Bitcoin, Economics, Technology, Privacy and everything inbetween. This website is a means by which we wish to give back to a community that has provided a wealth of information to us and, hopefully, to help others find signal in the noise.
+The ₿-Musketeers are simply a collective of individuals with a common interest. We meet regularly to discuss what is happening in the world around us and can often be found consuming content/ideas that relate to Bitcoin, Economics, Technology, Privacy and everything in-between. This website is a means by which we wish to give back to a community that has provided a wealth of information to us and, hopefully, to help others find signal in the noise.
 <br>
 
 ---
