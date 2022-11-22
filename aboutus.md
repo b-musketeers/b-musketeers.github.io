@@ -4,13 +4,30 @@ title: About Us
 subtitle: A little bit about the content creators
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Who are we?**
+<br>
+The ₿-Musketeers are simply a collective of individuals with a common interest. We meet regularly to discuss what is happening in the world around us and can often be found consuming content/ideas that relate to Bitcoin, Economics, Technology, Privacy and everything inbetween. This website is a means by which we wish to give back to a community that has provided a wealth of information to us and, hopefully, to help others find signal in the noise.
+<br>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+---
 
-What else do you need?
+<!-- ![MyToshi](/assets/img/about/myntoshi.png "MyToshi.") -->
+**Name:** Paul (a.k.a NulToshi)
+<br>
+**About:** A veteran and operations expert. He loves challenging assumptions and fixing root causes. Just like Bitcoin.
+<br>
 
-### My story
+---
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<!-- ![FoxToshi](/assets/img/about/myntoshi.png "FoxToshi.") -->
+**Name:** Tyrell (a.k.a FoxToshi)
+<br>
+**About:** Strategist with background in Defence Security, but now works in Asset Management. Specialises in Geo-Politics and Macro Economics. Passionate about History, Philosophy and Science.
+<br>
+
+---
+
+![MyToshi](/assets/img/about/myntoshi.png "MyToshi.")
+**Name:** Ian (a.k.a MynToshi)
+<br>
+**About:** Statistical Programmer and innovation specialist in the clinical data sciences industry. Hi is an avid learner who is always looking to expand his techinical skillset.
