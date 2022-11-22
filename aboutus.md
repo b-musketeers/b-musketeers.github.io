@@ -30,4 +30,4 @@ The ₿-Musketeers are simply a collective of individuals with a common interest
 ![MyToshi](/assets/img/about/myntoshi.png "MyToshi.")
 **Name:** Ian (a.k.a MynToshi)
 <br>
-**About:** Statistical Programmer and innovation specialist in the clinical data sciences industry. Hi is an avid learner who is always looking to expand his techinical skillset.
+**About:** Statistical Programmer and innovation specialist in the clinical data sciences industry. An avid learner who is always looking to expand his techinical skillset.
