@@ -2,9 +2,9 @@
 layout: post
 title: 21 million Questions & Answers
 subtitle: Isn't bitcoin just used by criminals?
-cover-img: /assets/img/2022-12-18/21MQnA_isnt-bitcoin-for-criminals_title.png
-thumbnail-img: /assets/img/2022-12-18/21MQnA_isnt-bitcoin-for-criminals_title.png
-share-img: /assets/img/2022-12-18/21MQnA_isnt-bitcoin-for-criminals_title.png
+cover-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
+thumbnail-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
+share-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
 tags: [21mQnA, Crime, FUD]
 author: Ian
 ---
