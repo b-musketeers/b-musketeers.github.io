@@ -5,7 +5,7 @@ subtitle: Series Introduction
 cover-img: /assets/img/2022-11-13/21MQnA_title.png
 thumbnail-img: /assets/img/2022-11-13/21MQnA_title.png
 share-img: /assets/img/2022-11-13/21MQnA_title.png
-tags: [21mQ&A]
+tags: [21mQnA]
 author: Ian
 ---
 

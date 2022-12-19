@@ -5,7 +5,7 @@ subtitle: What if someone randomly generates the same private key and steals my 
 cover-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_title.png
 thumbnail-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_title.png
 share-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_title.png
-tags: [21mQ&A, security, private keys]
+tags: [21mQnA, security, private keys]
 author: Ian
 ---
 
