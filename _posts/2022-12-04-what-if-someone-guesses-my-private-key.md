@@ -17,8 +17,8 @@ As Greg Foss (a well-known and passionate Bitcoiner) would say “It’s just si
 
 Bitcoin generates addresses from private keys, which themselves are derived from a random number, that is between 1 and 2^256[*]. This is a very big number, so big that conceptualising it is difficult, so to help with this let's consider these:
 * The size of bitcoin’s private key space, 2^256 is approximately 10^77 in decimal (that is one hundred quattuorvigintillion). For context the visible universe is estimated to contain 10^80 atoms.
-* A little closer to home what about grains of sand in the Sahara Desert? Well, there are estimated to be 1.504 * 10^24 (or one septillion five hundred four sextillion), which would mean we’d need 7.69 * 10^52 deserts full of sand.
-* Or whay if you were to start a computer counting 1 number per millisecond? Well, it wouldn’t reach the end for 3.67 * 10^66 years (or three unvigintillion six hundred seventy vigintillion). Which, given the lifetime of our sun is just a mere 5 * 10^9 (or 5 billion) left, suggests we have much more pressing things to focus on!
+* A little closer to home what about grains of sand in the Sahara Desert? Well, there are estimated to be 1.504 * 10^24 (or one septillion five hundred four sextillion), which would mean we’d need 7.69 * 10^52 deserts full of sand. That is more deserts than there are grains of sand the Sahara!
+* Or, what if you were to start a computer counting 1 number per millisecond? Well, it wouldn’t reach the end for 3.67 * 10^66 years (or three unvigintillion six hundred seventy vigintillion). Which, given the lifetime of our sun is just a mere 5 * 10^9 (or 5 billion) left, suggests we have much more pressing things to focus on!
 
 
 A great example, for helping someone to understand the magnitude of this number, is one used by [Yan Prizker in ‘Inventing Bitcoin’](https://www.swanbitcoin.com/inventing-bitcoin/){:target="_blank"}. Ask them to think of one completely random atom in the known universe and you try to guess which atom they are thinking of. Good luck!
