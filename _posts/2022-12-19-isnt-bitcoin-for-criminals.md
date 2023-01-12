@@ -35,7 +35,7 @@ In the early days of Bitcoin a well known trading site popped up called the Silk
 
 As we can see, Bitcoin as a payments network has the potential to be more traceable than traditional payment infrastructure. It may be true that this nascent technology is seeing increased use for illegal activity. But far more illegal activity takes place in traditional finance. Reported in [some research by as much as 800:1](https://messari.io/report/bitcoin-in-the-grand-scheme-of-things). 
 
-If we want to see evidence of this, we need only look at what authorities are saying about Bitcoin vs. traditional finance, and in particular cash as a means for under.
+If we want to see evidence of this, we need only look at what authorities are saying about Bitcoin vs. traditional finance, and in particular cash as a tool of crime.
 
 > While the world is looking with concern at the possible misuse of virtual currencies by criminals, this report may seem somewhat unusual in that it is not highlighting a new phenomenon or an emerging risk: money laundering and cash have been the stock of criminals for decades. However, this is precisely what makes the findings of this report of interest: in spite of the changing face of criminality, with significant threats now stemming from new technologies, money laundering schemes detected by law enforcement are still largely characterised by traditional techniques, in particular the use of cash.
 
