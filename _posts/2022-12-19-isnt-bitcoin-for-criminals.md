@@ -39,7 +39,7 @@ If we want to see evidence of this, we need only look at what authorities are sa
 
 > While the world is looking with concern at the possible misuse of virtual currencies by criminals, this report may seem somewhat unusual in that it is not highlighting a new phenomenon or an emerging risk: money laundering and cash have been the stock of criminals for decades. However, this is precisely what makes the findings of this report of interest: in spite of the changing face of criminality, with significant threats now stemming from new technologies, money laundering schemes detected by law enforcement are still largely characterised by traditional techniques, in particular the use of cash.
 
--- Eurpol (Dec2021): [Why is cash still a king? A strategic Report on the use of cash by Criminal groups as a facilitator for money laundering]( https://www.europol.europa.eu/publications-events/publications/why-cash-still-king-strategic-report-use-of-cash-criminal-groups-facilitator-for-money-laundering)
+-- Europol (Dec2021): [Why is cash still a king? A strategic Report on the use of cash by Criminal groups as a facilitator for money laundering]( https://www.europol.europa.eu/publications-events/publications/why-cash-still-king-strategic-report-use-of-cash-criminal-groups-facilitator-for-money-laundering)
 
 > In a futile effort to maintain digital anonymity, the defendants laundered stolen funds through a labyrinth of cryptocurrency transactions. Thanks to the meticulous work of law enforcement, the department once again showed how it can and will follow the money, no matter what form it takes.
 
