@@ -284,6 +284,8 @@ exclude:
   - screenshot.png
   - docs/
 
+include: [".well-known"]
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
