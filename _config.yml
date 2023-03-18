@@ -286,6 +286,7 @@ exclude:
 
 include: 
   - .well-known
+  - .htaccess
 
 plugins:
   - jekyll-paginate
