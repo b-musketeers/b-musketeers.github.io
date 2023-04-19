@@ -19,8 +19,8 @@ The ₿-Musketeers are simply a collective of individuals with a common interest
 
 ---
 
-<!-- ![FoxaToshi](/assets/img/about/myntoshi.png "FoxToshi.") -->
-**Name:** Tyrell (a.k.a FoxToshi)
+![FoxaToshi](/assets/img/about/foxatoshi.png "FoxaToshi.")
+**Name:** Tyrell (a.k.a FoxaToshi)
 <br>
 **About:** Strategist with background in Defence Security, but now works in Asset Management. Specialises in Geo-Politics and Macro Economics. Passionate about History, Philosophy and Science.
 <br>
