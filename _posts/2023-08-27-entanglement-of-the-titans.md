@@ -2,9 +2,9 @@
 layout: post
 title: Deep in Thought
 subtitle: Entanglement of the Titans
-cover-img: /assets/img/2023-08-23/titans_title.jpg
-thumbnail-img: /assets/img/2023-08-23/titans_title.jpg
-share-img: /assets/img/2023-08-23/titans_title.jpg
+cover-img: /assets/img/2023-08-27/titans_title.jpg
+thumbnail-img: /assets/img/2023-08-27/titans_title.jpg
+share-img: /assets/img/2023-08-27/titans_title.jpg
 tags: [deep-think, AI, scarcity]
 author: Ty
 ---
