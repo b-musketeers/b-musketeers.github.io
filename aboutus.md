@@ -11,8 +11,8 @@ The ₿-Musketeers are simply a collective of individuals with a common interest
 
 ---
 
-<!-- ![MyToshi](/assets/img/about/myntoshi.png "MyToshi.") -->
-**Name:** Paul (a.k.a NulToshi)
+<!-- ![MyToshi](/assets/img/about/nultoshi.png "NulToshi.") -->
+**Name:** NulToshi
 <br>
 **About:** A veteran and operations expert. He loves challenging assumptions and fixing root causes. Just like Bitcoin.
 <br>
@@ -20,7 +20,7 @@ The ₿-Musketeers are simply a collective of individuals with a common interest
 ---
 
 ![FoxaToshi](/assets/img/about/foxatoshi.png "FoxaToshi.")
-**Name:** Tyrell (a.k.a FoxaToshi)
+**Name:** FoxaToshi
 <br>
 **About:** Strategist with background in Defence Security, but now works in Asset Management. Specialises in Geo-Politics and Macro Economics. Passionate about History, Philosophy and Science.
 <br>
@@ -28,6 +28,6 @@ The ₿-Musketeers are simply a collective of individuals with a common interest
 ---
 
 ![Rydal](/assets/img/about/rydal.png "RydalWater.")
-**Name:** Ian (a.k.a Rydal)
+**Name:** Rydal
 <br>
-**About:** Statistical Programmer and innovation specialist in the clinical data sciences industry. An avid learner who is always looking to expand his techinical skillset.
+**About:** Analysis Programmer and innovation specialist in the clinical data sciences industry. An avid learner who is always looking to expand his techinical skillset.
