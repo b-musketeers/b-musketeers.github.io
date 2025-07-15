@@ -6,7 +6,7 @@ cover-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
 thumbnail-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
 share-img: /assets/img/2022-12-19/21MQnA_isnt-bitcoin-for-criminals_title.png
 tags: [21mQnA, Crime, FUD]
-author: Ian
+author: Rydal
 ---
 
 This is one of the early misconceptions latched onto by mainstream media while Bitcoin was establishing itself as an alternative monetary network. Although it has been thoroughly debunked multiple times (much like the ‘Bitcoin is a waste of energy’ argument) it still pops up every now and then. Indeed, it is particularly common among the general public who haven’t yet had much exposure outside of mainstream headlines, therefore it is still important that we break the question down and provide additional clarity.

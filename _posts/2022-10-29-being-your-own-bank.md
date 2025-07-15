@@ -6,7 +6,7 @@ cover-img: /assets/img/2022-10-29/byob_title.png
 thumbnail-img: /assets/img/2022-10-29/byob_thumb.png
 share-img: /assets/img/2022-10-29/byob_thumb.png
 tags: [lighting, nodes, techinical]
-author: Ian
+author: Rydal
 ---
 
 One of the fundamental principles underpinning the Bitcoin revolution is the change in ownership and custodial responsibility of personal finances. The goal being to move people away from entities that can be considered opaque, overreaching and self-serving, in favor of a model where each individual is empowered to take responsible for managing their finances. Whether you are a full-on BTC maxi (psychopath 😉) or just starting out down the rabbit hole I think we can all agree that the traditional financial status-quo [read satan's-quo] is being tested and a new paradigm is forming that puts the control back in the hands of the customer.

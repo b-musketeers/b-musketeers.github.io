@@ -6,7 +6,7 @@ cover-img: /assets/img/2022-11-13/21MQnA_title.png
 thumbnail-img: /assets/img/2022-11-13/21MQnA_title.png
 share-img: /assets/img/2022-11-13/21MQnA_title.png
 tags: [21mQnA]
-author: Ian
+author: Rydal
 ---
 
 Growing up my brother and I often received books for Christmas from our Grandparents. I know right!? A kid of the 80’s wants the latest Transformers action figure, or maybe chocolate, not books! What is important to note though is that these weren’t just any books, they were books of facts, more precisely of ‘*Questions and Answers*’. I wonder if they knew then how important that this concept was and how much of an impact it would likely play in shaping our young lives. Or, if perhaps they were just aiming to get more educational material under our noses at an early age. Either way, I really do thank them for it and the important affect it had on our lives.

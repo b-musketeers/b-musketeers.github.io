@@ -6,7 +6,7 @@ cover-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_
 thumbnail-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_title.png
 share-img: /assets/img/2022-12-04/21MQnA_what-if-someone-guesses-my-private-key_title.png
 tags: [21mQnA, security, private keys]
-author: Ian
+author: Rydal
 ---
 
 Note that this question is specifically focused on the random generation of the private keys and not on an individual actively targeting you and trying use knowledge of you or your public keys to steal your funds, we’ll cover that scenario in another Q&A.

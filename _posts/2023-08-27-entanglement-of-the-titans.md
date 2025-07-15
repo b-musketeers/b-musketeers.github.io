@@ -6,7 +6,7 @@ cover-img: /assets/img/2023-08-27/titans_title.jpg
 thumbnail-img: /assets/img/2023-08-27/titans_title.jpg
 share-img: /assets/img/2023-08-27/titans_title.jpg
 tags: [deep-think, AI, scarcity]
-author: Ty
+author: FoxaToshi
 ---
 
 When AI chooses Bitcoin as its money for interactions; do you want to be left holding fiat?
